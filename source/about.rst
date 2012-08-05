@@ -4,7 +4,7 @@
 
 * 南京大学生存指南 (Nanjing University Survival Guide,NJUSG) 是一个在线文档，旨在为南京大学的新生（和部分老生）提供一个学习生活信息的指南。
 
-* NJUSG由 `localsnake <http://localsnake.org/>`_ 发起，我们希望建立一个 **易于参与，快速更新，人人皆可参与** 的文档。
+* NJUSG由 `localsnake <http://localsnake.org/>`_ 发起，我们希望建立一个 **阅读体验好，快速更新，人人皆可参与** 的文档。
 
 内容
 -----
