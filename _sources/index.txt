@@ -11,16 +11,14 @@
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
    about
    participation
-   contents/dormlife.rst
-   contents/canteen.rst
-   contents/entertainment.rst
-   contents/course.rst
+   contents/*
 
 
-.. * :ref:`genindex`
+* :ref:`genindex`
 .. * :ref:`modindex`
 .. * :ref:`search`
 
